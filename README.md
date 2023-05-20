@@ -4,7 +4,7 @@ Link:
 
 # Example
 
-<img src="https://github.com/VladimirSolo/Job_Search/tree/main/example/example.PNG" width="500" height="300">
+![](example/example.PNG)
 
 # Application development plan:
 
