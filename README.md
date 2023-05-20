@@ -4,7 +4,7 @@ Link:
 
 # Example
 
-![Image alt](https://github.com/VladimirSolo/Job_Search/tree/main/example/example.PNG)
+<img src="https://github.com/VladimirSolo/Job_Search/tree/main/example/example.PNG" width="500">
 
 # Application development plan:
 
