@@ -4,7 +4,7 @@ Link:
 
 # Example
 
-![](example/example.PNG)
+![](example/example.PNG=500x500)
 
 # Application development plan:
 
