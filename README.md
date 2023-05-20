@@ -2,6 +2,10 @@
 
 Link:
 
+# Example
+
+![Image alt](https://github.com/VladimirSolo/Job_Search/tree/main/example/example.PNG)
+
 # Application development plan:
 
 ## Done
